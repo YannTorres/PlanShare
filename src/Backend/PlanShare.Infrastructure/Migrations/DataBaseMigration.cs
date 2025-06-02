@@ -4,7 +4,6 @@ using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.DependencyInjection;
 using MySqlConnector;
 using PlanShare.Domain.Enums;
-using PlanShare.Infrastructure.DataAccess;
 
 namespace PlanShare.Infrastructure.Migrations;
 public static class DataBaseMigration
